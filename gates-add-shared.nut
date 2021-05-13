@@ -14,7 +14,7 @@ enum PacketGates{
 }
 
 //-------------------------//
-/* EXAMPLE */
+/* EXAMPLE NEWWORLD.ZEN-Khorinis */
 local gate1 = addGate(0,true, "EVT_GATE_LARGE_01.3DS");
 gate1.setPositionOpened(5636.732421875,345.828,5498.1176757813,0,-30,0);
 gate1.setPositionClosed(5636.732421875,750.828,5498.1176757813,0,-30,0);
