@@ -1,0 +1,15 @@
+<server>
+    <!-- shared -->
+	<script src="gates-class-shared.nut" type="client" />
+	<script src="gates-class-shared.nut" type="server" />
+	
+	<script src="gates-add-shared.nut" type="client" />
+	<script src="gates-add-shared.nut" type="server" />
+
+	<!-- clientscripts -->
+	<script src="gates-client.nut" type="client" />
+	
+	<!-- serverscripts -->
+	<script src="gates-server-init.nut" type="server" />
+	<script src="gates-server.nut" type="server" />
+</server>
