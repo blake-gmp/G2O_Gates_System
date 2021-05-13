@@ -1,5 +1,5 @@
 /* Dodanie skryptu */
-config.xml -> <import src="G2O_Gates_System/scripts.xml" />
+config.xml -> <import src="G2O_Gates_System-main/scripts.xml" />
 
 /* Info */
 + Autor: heisenberg/blake
